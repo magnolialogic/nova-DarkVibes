@@ -2,7 +2,7 @@
 
 A dark theme with bright lights for [Nova](https://panic.com/nova).
 
-![Dark Vibes](https://raw.githubusercontent.com/magnolialogic/nova-DarkVibes/master/Images/extension/DarkVibes.png)
+![Dark Vibes](https://github.com/magnolialogic/nova-DarkVibes/raw/master/Images/extension/DarkVibes.png)
 
 ## Language support
 
