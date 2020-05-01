@@ -1,0 +1,13 @@
+{
+  "identifier": "magnolialogic.DarkVibes",
+  "name": "Dark Vibes",
+  "vendor": "Chris Coffin",
+  "description": "Dark vibes for Nova.",
+  "version": "0.2",
+  "categories": ["themes"],
+  "repository": "https://github.com/magnolialogic/nova-DarkVibes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magnolialogic/nova-DarkVibes/issues"
+  }
+}
